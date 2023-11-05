@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320060515375",
+    "project_id": "game-6eba0",
+    "storage_bucket": "game-6eba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320060515375:android:88a537c340853be3e712da",
+        "android_client_info": {
+          "package_name": "com.example.lab6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-bkZq3WNDPEoju7JdaFAzKNjpygORT0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
